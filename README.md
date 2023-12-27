@@ -15,3 +15,19 @@ SonicFlow is a lightweight music player application developed in C# using Window
     <li>TagLib<p>TagLib is a library for reading and editing the metadata of several popular audio formats.</p></li>
   </ul>
 </div>
+
+## Files supported
+
+| Extension | mimetype      |
+|-----------|---------------|
+| flac      | audio/flac    |
+| m3u       | audio/mpegurl |
+| m3u8      | audio/mpegurl |
+| m4a       | audio/mp4     |
+| m4b       | audio/mp4     |
+| mp3       | audio/mpeg    |
+| ogg       | audio/ogg     |
+| opus      | audio/ogg     |
+| pls       | audio/x-scpls |
+| wav       | audio/wav     |
+| aac       | audio/aa      |
