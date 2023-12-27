@@ -8,14 +8,6 @@ SonicFlow is a lightweight music player application developed in C# using Window
   <p><img src="UI2.png"/></p>
 </div>
 
-<div>
-  <h2>#Libraries</h2>
-  <ul>
-    <li>NAudio<p>NAudio is a .NET audio library that allows for audio playback, recording, and manipulation.</p></li>
-    <li>TagLib<p>TagLib is a library for reading and editing the metadata of several popular audio formats.</p></li>
-  </ul>
-</div>
-
 ## Files supported
 
 | Extension | mimetype      |
@@ -31,3 +23,7 @@ SonicFlow is a lightweight music player application developed in C# using Window
 | pls       | audio/x-scpls |
 | wav       | audio/wav     |
 | aac       | audio/aa      |
+
+## Libraries
+* [NAudio](https://github.com/naudio/NAudio) </br> NAudio is a .NET audio library that allows for audio playback, recording, and manipulation.
+* [TagLib](https://github.com/taglib/taglib) </br> TagLib is a library for reading and editing the metadata of several popular audio formats.
