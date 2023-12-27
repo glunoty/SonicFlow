@@ -7,6 +7,8 @@
 <div>
   <h2>#Libraries</h2>
   <ul>
-    <li<a href="https://www.example.com">Naudio</a></li>
+    <li>NAudio</li>
+    <li>TagLib</li>
+    <li>SQLite</li>
   </ul>
 </div>
