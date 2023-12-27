@@ -8,7 +8,7 @@ SonicFlow is a lightweight music player application developed in C# using Window
   <p><img src="UI2.png"/></p>
 </div>
 
-## Files supported
+## Files Supported
 
 | Extension | mimetype      |
 |-----------|---------------|
